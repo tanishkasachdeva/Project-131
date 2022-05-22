@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 28px;
+    font-weight: bolder;
+    color: white;
+    width: 100%;
+    margin: 0%;
+}
+
+.anchor
+{
+    font-size: 23px;
+    width: 40%;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
