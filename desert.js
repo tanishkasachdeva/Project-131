@@ -4,7 +4,7 @@ objects=[];
 
 function preload()
 {
-    img=loadImage("Beach.webp");
+    img=loadImage("Desert.png");
 }
 
 function setup()
